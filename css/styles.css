@@ -301,6 +301,7 @@ img {
 }
 .modal-content {
   position: relative;
+  display: block;
   margin-top: 4px;
 }
 .modal-input {
